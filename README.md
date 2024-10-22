@@ -5,8 +5,10 @@
 #### Honors & Awards: Summa Cum Laude, Beta Sigma Gamma, Adam Smith Award for Graduate Study, Hewetson Economics Award
 
 ## Education
-- Business Analysis, M.S. | William & Mary (_August 2024_)
-- Economics & Mathematics, B.S. | University of Mary Washington (_May 2021_)
+- M.S., Business Analysis | William & Mary (_August 2024_)
+- B.S., Economics & Mathematics* | University of Mary Washington (_May 2021_)
+
+*Concentration in Applied Statistics & Actuarial Science 
 
 ## Work Experience
 **Research Associate @ Investment Company Institute (_July 2024 - Present_)**
