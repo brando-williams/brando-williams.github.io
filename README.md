@@ -8,7 +8,7 @@
 - M.S., Business Analysis | William & Mary (_August 2024_)
 - B.S., Economics & Mathematics* | University of Mary Washington (_May 2021_)
 
-*Concentration in Applied Statistics & Actuarial Science 
+*Holding minors in Applied Statistics & Actuarial Science 
 
 ## Work Experience
 **Research Associate @ Investment Company Institute (_July 2024 - Present_)**
@@ -49,4 +49,5 @@ Here is a collection of my research papers from my undergraduate studies in Econ
 2. [An Empirical Analysis of Economic Inequality on Economic Growth](https://scholar.umw.edu/student_research/389/)
 3. [What has happened to U.S. Inflation? The Effect of Globalization on the Phillip’s Curve](https://blogs.elon.edu/ipe/issues/volume-29-issue-1-2020/)
 
-## Projects
+## Data Analytics Portfolio
+To showcase my research skills, I have compiled a collection of my notebooks, highlighting the data analytics expertise I gained through my graduate program and life experiences. 
