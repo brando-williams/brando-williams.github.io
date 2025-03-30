@@ -1,3 +1,16 @@
 title: Brandon Williams
 logo: mypic.png
+description: >
+  <br>
+  Research Associate with 3+ years of experience in the asset management industry and a master's degree in Business Analytics from College of William and Mary. I hold a BS in Mathematics and Economics with minors in Applied Statistics and Actuarial Science
+  from the University of Mary Washington. I received departmental honors for Mathematics and Economics. I also played on the Men's Lacrosse team. 
+  <br><br>
+  Previously, worked as a student researcher for the Summer Science Insitute at the University of Mary Washington.
+  <br><br>
+  <a href="https://www.linkedin.com/in/brandonwilliamsm/">View my LinkedIn Profile</a> 
+  
 theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
