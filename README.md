@@ -16,7 +16,7 @@ The script utilizes the hist_ge_price function to retrieve historical item price
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/DataExtraction-white?logo=DataExtraction)](#) [![](https://img.shields.io/badge/Runescape-white?logo=Runescape)](#) 
 
-[View code on Github]()
+[View code on Github](https://github.com/brando-williams/brando-williams.github.io/blob/main/scripts/data_extraction_osrs.py)
 
 --- 
 
@@ -26,7 +26,7 @@ This script analyzes price and trade volume data for teak planks and redwood log
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Seaborn-white?logo=Seaborn)](#)
 [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Runescape-white?logo=Runescape)](#)
 
-[View code on Github]()
+[View code on Github](https://github.com/brando-williams/brando-williams.github.io/blob/main/scripts/data_extraction_osrs.py)
 
 <table>
   <tr>
