@@ -25,10 +25,10 @@ This script analyzes price and trade volume data for teak planks and redwood log
 
 <table>
   <tr>
-    <td><img src="Images/Figure 2025-03-25 212214 (0).png?raw=true" width="300" height="125"/></td>
-    <td><img src="Images/Figure 2025-03-25 212214 (1).png?raw=true" width="300" height="125"/></td>
-    <td><img src="Images/Figure 2025-03-25 212214 (6).png?raw=true" width="300" height="125"/></td>
-    <td><img src="Images/Figure 2025-03-25 212214 (7).png?raw=true" width="300" height="125"/></td>
+    <td><img src="Images/Figure 2025-03-25 212214 (0).png?raw=true" width="225" height="225"/></td>
+    <td><img src="Images/Figure 2025-03-25 212214 (1).png?raw=true" width="225" height="225"/></td>
+    <td><img src="Images/Figure 2025-03-25 212214 (6).png?raw=true" width="225" height="225"/></td>
+    <td><img src="Images/Figure 2025-03-25 212214 (7).png?raw=true" width="225" height="225"/></td>
   <tr>
 <table>
 
