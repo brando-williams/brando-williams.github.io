@@ -23,6 +23,11 @@ The script utilizes the hist_ge_price function to retrieve historical item price
 ### Market Trend Analysis: Teak and Redwood Planks in OSRS (2024–2025)
 This script analyzes price and trade volume data for teak planks and redwood logs in OSRS (2024–2025). Using Python libraries like Pandas and Seaborn, it processes CSV files, visualizes trends, marks key events (e.g., "Sailing" announcements), and calculates metrics like ROI to reveal market insights.
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Seaborn-white?logo=Seaborn)](#)
+[![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Runescape-white?logo=Runescape)](#)
+
+[View code on Github]()
+
 <table>
   <tr>
     <td><img src="Images/Figure 2025-03-25 212214 (0).png?raw=true" width="225" height="225"/></td>
@@ -31,11 +36,6 @@ This script analyzes price and trade volume data for teak planks and redwood log
     <td><img src="Images/Figure 2025-03-25 212214 (7).png?raw=true" width="225" height="225"/></td>
   <tr>
 <table>
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Seaborn-white?logo=Seaborn)](#)
-[![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Runescape-white?logo=Runescape)](#)
-
-[View code on Github]()
 
 ---
 
